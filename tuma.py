@@ -9,7 +9,7 @@ url = "https://api.smsafrica.tech/api/message/send/sms"
 
 payload = {
         "sender_id": "FULUSI",
-        "msisdn": "0792852100",
+        "msisdn": "",
         "message": "Test"
 }
 headers = {
