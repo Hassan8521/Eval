@@ -5,10 +5,10 @@ from telnetlib import AUTHENTICATION
 import requests
 import json
 
-url = "https://api.smsafrica.tech/api/message/send/sms"
+url = "https://#/api/message/send/sms"
 
 payload = {
-        "sender_id": "FULUSI",
+        "sender_id": "",
         "msisdn": "",
         "message": "Test"
 }
